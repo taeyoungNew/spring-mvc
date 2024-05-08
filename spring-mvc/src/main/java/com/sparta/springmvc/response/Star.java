@@ -20,4 +20,10 @@ public class Star {
     }
 
     public Star() {}
+    
+    
+    public String getName() {
+    	return this.name;
+    }
+    
 }
