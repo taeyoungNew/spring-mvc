@@ -1,5 +1,6 @@
 package com.sparta.springmvc.controller;
 
+// Controller는 아래의 라이브러리를 import해줘야한다.
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
